@@ -1,5 +1,5 @@
 ![Logotipo 500x500  px-](https://user-images.githubusercontent.com/83840411/124042514-5ca23200-d9df-11eb-9b51-e6333451879c.jpeg)
-### Hi there 👋
+###  👋
 
 <!--
 **Dai-7/Dai-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
