@@ -1,3 +1,4 @@
+![Logotipo 500x500  px-](https://user-images.githubusercontent.com/83840411/124042514-5ca23200-d9df-11eb-9b51-e6333451879c.jpeg)
 ### Hi there 👋
 
 <!--
@@ -5,8 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...![Logotipo 500x500  px-](https://user-images.githubusercontent.com/83840411/124042472-485e3500-d9df-11eb-8ea7-17e9751c5b7a.gif)
-
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
